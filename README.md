@@ -6,5 +6,5 @@
 ##### . 🌱I’m currently learning Javascript and C
 ##### . 🌱I’m looking forward to collaborate on open source projects
 ##### . 💬Ask me about coding with C
-###### . 📫How to reach me: ngenejoshua05@gmail.com
+##### . 📫How to reach me: ngenejoshua05@gmail.com
 
